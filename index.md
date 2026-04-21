@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Wassup World! O_O
 ---
