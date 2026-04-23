@@ -1,0 +1,13 @@
+
+title: "Journal Club: Automated Cytometric Gating (UNITO)"
+description: "40-minute flow cytometry journal club outline"
+
+theme: minima
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# If this is a PROJECT site (not username.github.io), uncomment and edit:
+# baseurl: "/REPO_NAME"
+# url: "https://YOUR_GITHUB_USERNAME.github.io"
